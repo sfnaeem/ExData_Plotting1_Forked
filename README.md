@@ -1,5 +1,5 @@
 # ExData_Plotting1_Forked
-Four plots for this assignment are created as follows:
+Four plots are created as follows:
 
 plot1.png
 ![myimage-alt-tag](https://github.com/sfnaeem/ExData_Plotting1_Forked/blob/master/plot1.png)
